@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:url(https://images.pexels.com/photos/1444108/pexels-photo-1444108.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+background-size: cover;
+}
+.main{
+    background: url(https://res.cloudinary.com/practicaldev/image/fetch/s--BuPz-p40--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nphrgz8yfnjylrwfr0yl.png);
+
+opacity:0.95 ;
+    border: 5px double rgb(105, 78, 78);
+height:400px;
+width: 400px;
+margin: 0 auto;
+text-align: center;
+margin-top: 100px;
+border-radius: 10px;
+}
+
+#heading{
+    color:rgb(241, 132, 132);
+    height: 80px;
+    width: 100%;
+    margin-top: 10px;
+    font-family: 'Tiro Gurmukhi', serif;
+    
+}
+#display{
+    font-family: 'Caveat', cursive;
+    color: aliceblue;
+    font-size: 80px;
+    
+}
+.btn{
+    font-family: 'Tiro Gurmukhi', serif;
+    color: rgb(16, 16, 17);
+}
+
+
+
